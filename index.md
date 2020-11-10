@@ -93,5 +93,5 @@ The following enhancements could be made for improved utility:
 * Indication of available courses to satisfy general eduction requirements (requires direct interaction with STAR database). STAR currently has a user-friendly search for this, but direct integration into the visualizer could be helpful.
 * Support for departments beyond ICS
 * Support for double majors
-* Support for prospective students (who don’t have a MyUH account) and are willing to manually enter AP credits etc.
+* Support for prospective students (who don’t have a MyUH account) and are willing to manually enter AP credits, etc.
 * Long-term: interaction with STAR’s actual enrollment system.
