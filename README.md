@@ -1,1 +1,1 @@
-This repo contains the documentation for the UH Plan View project. See [index.md](index.md) for the source, or go to [https://uh-plan-view.github.io](https://bowfolios.github.io).
+This repo contains the documentation for the UH Classtellations project. See [index.md](index.md) for the source, or go to [https://uh-classtellations.github.io](https://uh-classtellations.github.io).

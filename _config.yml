@@ -1,10 +1,10 @@
-title: UH Plan View
+title: UH Classtellations
 description: In Interactive Academic Visual Guide for UH Students
 google_analytics:
 show_downloads: false
 theme: jekyll-theme-cayman
 github:
   is_project_page: true
-  repository_url: https://github.com/uh-plan-view/uh-plan-view
+  repository_url: https://github.com/uh-classtellations/uh-classtellations
 gems:
   - jekyll-mentions

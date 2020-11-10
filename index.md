@@ -11,11 +11,11 @@
 
 ## Overview
 
-UH Plan View is an interactive visual guide to help UH students optimize their path to graduation.  By showing progress, prerequisites, and timing of classes, students can experiment with the ordering of remaining classes with a click-and-drag interface.
+UH Classtellations is an interactive visual guide to help UH students optimize their path to graduation.  By showing progress, prerequisites, and timing of classes, students can experiment with the ordering of remaining classes with a click-and-drag interface.
 
 A student's progress on general UH requirements and major requirements are indicated along with remaining major classes.  Prerequisite dependencies are shown with arrows along with credit hours totals for each semester.
 
-UH Plan View utilizes the following frameworks:
+UH Classtellations utilizes the following frameworks:
 
 * [Meteor](https://www.meteor.com/) for Javascript-based implementation of client and server code.
 * [React](https://reactjs.org/) for component-based UI implementation and routing.
