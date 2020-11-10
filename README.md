@@ -1,1 +1,1 @@
-This repo contains the documentation for the BowFolios system. See [index.md](index.md) for the source, or go to [https://bowfolios.github.io](https://bowfolios.github.io).
+This repo contains the documentation for the UH PLan View system. See [index.md](index.md) for the source, or go to [https://uh-plan-view.github.io](https://bowfolios.github.io).
