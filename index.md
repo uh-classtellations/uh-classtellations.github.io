@@ -1,6 +1,7 @@
 ## Table of contents
 
 * [Overview](#overview)
+* [Team Members](#team-members)
 * [User Guide](#user-guide)
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
@@ -11,7 +12,7 @@
 
 ## Overview
 
-UH Classtellations is an interactive visual guide to help UH students optimize their path to graduation.  By showing progress, prerequisites, and timing of classes, students can experiment with the ordering of remaining classes with a click-and-drag interface.
+[UH Classtellations](https://github.com/uh-classtellations/uh-classtellations) is an interactive visual guide to help UH students optimize their path to graduation.  By showing progress, prerequisites, and timing of classes, students can experiment with the ordering of remaining classes with a click-and-drag interface.
 
 A student's progress on general UH requirements and major requirements are indicated along with remaining major classes.  Prerequisite dependencies are shown with arrows along with credit hours totals for each semester.
 
@@ -21,6 +22,18 @@ UH Classtellations utilizes the following frameworks:
 * [React](https://reactjs.org/) for component-based UI implementation and routing.
 * [Semantic UI React](https://react.semantic-ui.com/) CSS Framework for UI design.
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
+
+## Team Members
+
+### Kevin Lee
+
+### Jessica Tang
+
+### Alison Tomooka
+
+Alison is in her third year at University of Hawaii at Manoa and pursuing a B.A. in Economics, along with a minor in Computer Science. With interest in web design and data science, she hopes UH Classtellations can help other students keep track of their academic progress and achieve their educational goals. For more information about Alison and her previous projects, please visit her [portfolio](https://alison-t.github.io/).
+
+### Kiko Whiteley
 
 ## User Guide
 
