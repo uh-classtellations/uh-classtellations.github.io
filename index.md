@@ -27,13 +27,19 @@ UH Classtellations utilizes the following frameworks:
 
 ### Kevin Lee
 
+Kevin is in his senior year in Computer Engineering. He plans on pursuing a career in data analytics or electrical engineering involving telecommunication systems. He is just taking this class because he needs a technical elective but he is having a lot of fun and is learning a lot. For more information about Kevin and his previous projects, please visit his [portfolio](https://krnkev.github.io/).
+
 ### Jessica Tang
+
+Jessica is in her junior year at the University of Hawaii at Manoa and pursuing a B.S. in Computer Science. She hopes to be able to create useful websites to help others and hopefully UH Classtellations will be a great first step. For more information about Jessica and her previous projects, please visit her [portfolio](https://jktang342.github.io/).
 
 ### Alison Tomooka
 
-Alison is in her third year at University of Hawaii at Manoa and pursuing a B.A. in Economics, along with a minor in Computer Science. With interest in web design and data science, she hopes UH Classtellations can help other students keep track of their academic progress and achieve their educational goals. For more information about Alison and her previous projects, please visit her [portfolio](https://alison-t.github.io/).
+Alison is in her third year at University of Hawaii at Manoa and pursuing a B.A. in Economics, along with a minor in Computer Science. Through UH Classtellations, she hopes to help other students keep track of their academic progress and achieve their educational goals. For more information about Alison and her previous projects, please visit her [portfolio](https://alison-t.github.io/).
 
 ### Kiko Whiteley
+
+Kiko is a junior majoring in Computer Science and Mathematics, looking to work as a a data science researcher, analyst, or engineer.  He hopes that UH Classtellations will be a useful visual aid for UH ICS students to optimize their path toward graduation and seeks to broaden his knowledge in building interactive web interfaces while working on the project.  For further details, you can see [his Github portfolio](https://keekss.github.io/).
 
 ## User Guide
 
@@ -91,7 +97,7 @@ _This section is currently under development._
 
 _This section is currently under development._
 
-## Milestone 3: Final touches
+### Milestone 3: Final touches
 
 _This section is currently under development._
 
