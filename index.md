@@ -41,6 +41,12 @@ Alison is in her third year at University of Hawaii at Manoa and pursuing a B.A.
 
 Kiko is a junior majoring in Computer Science and Mathematics, looking to work as a a data science researcher, analyst, or engineer.  He hopes that UH Classtellations will be a useful visual aid for UH ICS students to optimize their path toward graduation and seeks to broaden his knowledge in building interactive web interfaces while working on the project.  For further details, you can see [his Github portfolio](https://keekss.github.io/).
 
+## Page Mockups
+
+### Progress Page
+
+<img style="height: 500px;" src="images/progress-page-mockup.png">
+
 ## User Guide
 
 _This section is currently under development._
