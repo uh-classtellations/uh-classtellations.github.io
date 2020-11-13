@@ -45,6 +45,15 @@ Kiko is a junior majoring in Computer Science and Mathematics, looking to work a
 
 ### Progress Page
 
+* Choose track (top)
+* Classes, gateways, and semesters
+  * Green: past
+  * Yellow: current
+  * Blue: future
+* Prerequisites shown w/ arrows
+* Click-and-drag into a given semester requires prerequisite(s) completed
+* Semester-wise and total credit hours shown
+
 <img style="height: 500px;" src="images/progress-page-mockup.png">
 
 ## User Guide
