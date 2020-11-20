@@ -2,10 +2,11 @@
 
 * [Overview](#overview)
 * [Team Members](#team-members)
+* [Page Mockups](#page-mockups)
+* [Development History](#development-history)
 * [User Guide](#user-guide)
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
-* [Development History](#development-history)
 * [Continuous Integration](#continuous-integration)
 * [Walkthrough videos](#walkthrough-videos)
 * [Example enhancements](#example-enhancements)
@@ -43,6 +44,13 @@ Kiko is a junior majoring in Computer Science and Mathematics, looking to work a
 
 ## Page Mockups
 
+### Transcript Page
+
+* Select past and current courses from a dropdown menu
+* View and edit the list of past and current courses
+
+<img style="height: 500px;" src="images/m1-transcript.png">
+
 ### Progress Page
 
 * Choose track (top)
@@ -54,7 +62,37 @@ Kiko is a junior majoring in Computer Science and Mathematics, looking to work a
 * Click-and-drag into a given semester requires prerequisite(s) completed
 * Semester-wise and total credit hours shown
 
-<img style="height: 500px;" src="images/progress-page-mockup.png">
+<img style="height: 500px;" src="images/progress-mockup.png">
+
+### Advisor Page
+
+* View ICS major advisors
+* Click to schedule an appointment via UH Star Balance
+
+<img style="height: 500px;" src="images/m1-advisors.png">
+
+### Login Page
+
+* Log in to resume use of UH Classtellations
+* Optional: log in as guest (under development)
+
+<img style="height: 500px;" src="images/m1-login.png">
+
+## Development History
+
+To see our goals & progress, check out the Milestones below:
+
+### Milestone 1: Mockup development
+
+Our goals and progress for Milestone 1 are viewable at [our Github Repository's Project Page](https://github.com/uh-classtellations/uh-classtellations/projects/2).
+
+### Milestone 2: Data model development
+
+Our goals and progress for Milestone 1 are viewable at [our Github Repository's Project Page](https://github.com/uh-classtellations/uh-classtellations/projects/3).
+
+### Milestone 3: Final touches
+
+_This section is currently under development._
 
 ## User Guide
 
@@ -97,22 +135,6 @@ _This section is currently under development._
 _This section is currently under development._
 
 ## Continuous Integration
-
-_This section is currently under development._
-
-## Development History
-
-_This section is currently under development._
-
-### Milestone 1: Mockup development
-
-_This section is currently under development._
-
-### Milestone 2: Data model development
-
-_This section is currently under development._
-
-### Milestone 3: Final touches
 
 _This section is currently under development._
 
