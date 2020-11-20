@@ -24,6 +24,8 @@ UH Classtellations utilizes the following frameworks:
 * [Semantic UI React](https://react.semantic-ui.com/) CSS Framework for UI design.
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
 
+Feel free to reference the repositories for [our project](https://github.com/uh-classtellations/uh-classtellations) and [our home page](https://github.com/uh-classtellations/uh-classtellations.github.io), and view our project [on digital ocean](http://138.197.222.6).
+
 ## Team Members
 
 ### Kevin Lee
@@ -49,6 +51,7 @@ Kiko is a junior majoring in Computer Science and Mathematics, looking to work a
 * Select past and current courses from a dropdown menu
 * View and edit the list of past and current courses
 
+Check out this page [on Digital Ocean](http://138.197.222.6/#/transcript)
 <img style="height: 400px; width: auto;" src="images/m1-transcript.png">
 
 ### Progress Page
@@ -62,6 +65,7 @@ Kiko is a junior majoring in Computer Science and Mathematics, looking to work a
 * Click-and-drag into a given semester requires prerequisite(s) completed
 * Semester-wise and total credit hours shown
 
+Check out this page [on Digital Ocean](http://138.197.222.6/#/progress)
 <img style="height: 500px; width: auto;" src="images/progress-mockup.png">
 
 ### Advisor Page
@@ -69,6 +73,7 @@ Kiko is a junior majoring in Computer Science and Mathematics, looking to work a
 * View ICS major advisors
 * Click to schedule an appointment via UH Star Balance
 
+Check out this page [on Digital Ocean](http://138.197.222.6/#/list-advisors)
 <img style="height: 400px; width: auto;" src="images/m1-advisors.png">
 
 ### Login Page
@@ -76,6 +81,7 @@ Kiko is a junior majoring in Computer Science and Mathematics, looking to work a
 * Log in to resume use of UH Classtellations
 * Optional: log in as guest (under development)
 
+Check out this page [on Digital Ocean](http://138.197.222.6/#/signin)
 img style="height: 400px; width: auto;" src="images/m1-login.png">
 
 ## Development History
