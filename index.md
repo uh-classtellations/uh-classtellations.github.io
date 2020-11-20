@@ -49,7 +49,7 @@ Kiko is a junior majoring in Computer Science and Mathematics, looking to work a
 * Select past and current courses from a dropdown menu
 * View and edit the list of past and current courses
 
-<img style="height: 500px;" src="images/m1-transcript.png">
+<img style="height: 500px; width: auto;" src="images/m1-transcript.png">
 
 ### Progress Page
 
@@ -62,21 +62,21 @@ Kiko is a junior majoring in Computer Science and Mathematics, looking to work a
 * Click-and-drag into a given semester requires prerequisite(s) completed
 * Semester-wise and total credit hours shown
 
-<img style="height: 500px;" src="images/progress-mockup.png">
+<img style="height: 500px; width: auto;" src="images/progress-mockup.png">
 
 ### Advisor Page
 
 * View ICS major advisors
 * Click to schedule an appointment via UH Star Balance
 
-<img style="height: 500px;" src="images/m1-advisors.png">
+<img style="height: 500px; width: auto;" src="images/m1-advisors.png">
 
 ### Login Page
 
 * Log in to resume use of UH Classtellations
 * Optional: log in as guest (under development)
 
-<img style="height: 500px;" src="images/m1-login.png">
+img style="height: 500px; width: auto;" src="images/m1-login.png">
 
 ## Development History
 
