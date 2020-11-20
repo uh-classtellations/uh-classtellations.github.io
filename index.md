@@ -52,6 +52,7 @@ Kiko is a junior majoring in Computer Science and Mathematics, looking to work a
 * View and edit the list of past and current courses
 
 Check out this page [on Digital Ocean](http://138.197.222.6/#/transcript)
+
 <img style="height: 400px; width: auto;" src="images/m1-transcript.png">
 
 ### Progress Page
