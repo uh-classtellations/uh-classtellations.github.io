@@ -83,7 +83,7 @@ Check out this page [on Digital Ocean](http://138.197.222.6/#/list-advisors)
 * Optional: log in as guest (under development)
 
 Check out this page [on Digital Ocean](http://138.197.222.6/#/signin)
-img style="height: 400px; width: auto;" src="images/m1-login.png">
+<img style="height: 400px; width: auto;" src="images/m1-login.png">
 
 ## Development History
 
