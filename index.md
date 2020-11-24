@@ -24,7 +24,11 @@ UH Classtellations utilizes the following frameworks:
 * [Semantic UI React](https://react.semantic-ui.com/) CSS Framework for UI design.
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
 
-Feel free to reference the repositories for [our project](https://github.com/uh-classtellations/uh-classtellations) and [our Home Page](https://github.com/uh-classtellations/uh-classtellations.github.io), and view our project [on Digital Ocean](http://138.197.222.6).
+Feel free to reference the repositories for [our project](https://github.com/uh-classtellations/uh-classtellations) and [our Home Page](https://github.com/uh-classtellations/uh-classtellations.github.io).
+
+## Deployment
+
+Our project is deployed on Digital Ocean [here](https://classtellations.xyz).
 
 ## Team Members
 
