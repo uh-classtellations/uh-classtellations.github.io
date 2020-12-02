@@ -31,6 +31,9 @@ Our project is deployed on Digital Ocean [here](https://classtellations.xyz).
 ## User Guide
 
 ### Transcript Page
+
+Check out the Transcript page [on Digital Ocean](http://138.197.222.6/#/transcript).
+
 #### Transcript
 * View added courses sorted reverse-chronologically by year and semester, then in descending order by ICS course level.
 * Courses are color-coded by status:
@@ -39,14 +42,12 @@ Our project is deployed on Digital Ocean [here](https://classtellations.xyz).
     * Withdrew = Red
 * Button links to Add Course Form for ease in navigation.
 
-Check out the Transcript page [on Digital Ocean](http://138.197.222.6/#/transcript).
 <img style="height: 400px; width: auto;" src="images/transcript-example.png">
 
 #### Add Course Form
 * Courses can be defined and added to the Transcript with with the Add Course form.
 * Button links to top of page for ease in navigation.
 
-Check out the Add Course section of the Transcript page [on Digital Ocean](http://138.197.222.6/#/transcript#AddCourse).
 <img style="height: 400px; width: auto;" src="images/add-course-example.png">
 
 ### Progress Page
