@@ -1,15 +1,13 @@
 ## Table of contents
 
 * [Overview](#overview)
-* [Team Members](#team-members)
-* [Page Mockups](#page-mockups)
-* [Development History](#development-history)
+* [Deployment](#deployment)
 * [User Guide](#user-guide)
-* [Community Feedback](#community-feedback)
+* [Development History](#development-history)
 * [Developer Guide](#developer-guide)
 * [Continuous Integration](#continuous-integration)
-* [Walkthrough videos](#walkthrough-videos)
 * [Example enhancements](#example-enhancements)
+* [Team Members](#team-members)
 
 ## Overview
 
@@ -30,25 +28,7 @@ Feel free to reference the repositories for [our project](https://github.com/uh-
 
 Our project is deployed on Digital Ocean [here](https://classtellations.xyz).
 
-## Team Members
-
-### Kevin Lee
-
-Kevin is in his senior year in Computer Engineering. He plans on pursuing a career in data analytics or electrical engineering involving telecommunication systems. He is just taking this class because he needs a technical elective but he is having a lot of fun and is learning a lot. For more information about Kevin and his previous projects, please visit his [portfolio](https://krnkev.github.io/).
-
-### Jessica Tang
-
-Jessica is in her junior year at the University of Hawaii at Manoa and pursuing a B.S. in Computer Science. She hopes to be able to create useful websites to help others and hopefully UH Classtellations will be a great first step. For more information about Jessica and her previous projects, please visit her [portfolio](https://jktang342.github.io/).
-
-### Alison Tomooka
-
-Alison is in her third year at University of Hawaii at Manoa and pursuing a B.A. in Economics, along with a minor in Computer Science. Through UH Classtellations, she hopes to help other students keep track of their academic progress and achieve their educational goals. For more information about Alison and her previous projects, please visit her [portfolio](https://alison-t.github.io/).
-
-### Kiko Whiteley
-
-Kiko is a junior majoring in Computer Science and Mathematics, looking to work as a a data science researcher, analyst, or engineer.  He hopes that UH Classtellations will be a useful visual aid for UH ICS students to optimize their path toward graduation and seeks to broaden his knowledge in building interactive web interfaces while working on the project.  For further details, you can see [his Github portfolio](https://keekss.github.io/).
-
-## Page Mockups
+## User Guide
 
 ### Transcript Page
 
@@ -105,54 +85,6 @@ Our goals and progress for Milestone 1 are viewable at [our Github Repository's 
 
 _This section is currently under development._
 
-## User Guide
-
-_This section is currently under development._
-
-## Community Feedback
-
-_This section is currently under development._
-
-## Developer Guide
-
-_This section is currently under development._
-
-### Application Design
-
-_This section is currently under development._
-
-### Data model
-
-_This section is currently under development._
-
-## Initialization
-
-_This section is currently under development._
-
-### Quality Assurance
-
-_This section is currently under development._
-
-#### ESLint
-
-_This section is currently under development._
-
-#### End to End Testing
-
-_This section is currently under development._
-
-## From mockup to production
-
-_This section is currently under development._
-
-## Continuous Integration
-
-_This section is currently under development._
-
-## Walkthrough videos
-
-_This section is currently under development._
-
 ## Example enhancements
 
 The following enhancements could be made for improved utility:
@@ -162,3 +94,21 @@ The following enhancements could be made for improved utility:
 * Support for double majors
 * Support for prospective students (who don’t have a MyUH account) and are willing to manually enter AP credits, etc.
 * Long-term: interaction with STAR’s actual enrollment system.
+
+## Team Members
+
+### Kevin Lee
+
+Kevin is in his senior year in Computer Engineering. He plans on pursuing a career in data analytics or electrical engineering involving telecommunication systems. He is just taking this class because he needs a technical elective but he is having a lot of fun and is learning a lot. For more information about Kevin and his previous projects, please visit his [portfolio](https://krnkev.github.io/).
+
+### Jessica Tang
+
+Jessica is in her junior year at the University of Hawaii at Manoa and pursuing a B.S. in Computer Science. She hopes to be able to create useful websites to help others and hopefully UH Classtellations will be a great first step. For more information about Jessica and her previous projects, please visit her [portfolio](https://jktang342.github.io/).
+
+### Alison Tomooka
+
+Alison is in her third year at University of Hawaii at Manoa and pursuing a B.A. in Economics, along with a minor in Computer Science. Through UH Classtellations, she hopes to help other students keep track of their academic progress and achieve their educational goals. For more information about Alison and her previous projects, please visit her [portfolio](https://alison-t.github.io/).
+
+### Kiko Whiteley
+
+Kiko is a junior majoring in Computer Science and Mathematics, looking to work as a a data science researcher, analyst, or engineer.  He hopes that UH Classtellations will be a useful visual aid for UH ICS students to optimize their path toward graduation and seeks to broaden his knowledge in building interactive web interfaces while working on the project.  For further details, you can see [his Github portfolio](https://keekss.github.io/).
