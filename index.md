@@ -74,7 +74,7 @@ Check out this page [on Digital Ocean](https://classtellations.xyz/#/progress)
 * View Graduation Requirements
 
 Check out this page [on Digital Ocean](https://classtellations.xyz/#/list-advisors)
-<img style="height: 400px; width: auto;" src="images/m1-advisors.png">
+<img style="height: 400px; width: auto;" src="images/advisors-example.png">
 
 ### Login Page
 
