@@ -11,6 +11,8 @@
 
 ## Overview
 
+![ci-badge](https://github.com/uh-classtellations/uh-classtellations/workflows/ci-uh-classtellations/badge.svg)
+
 [UH Classtellations](https://github.com/uh-classtellations/uh-classtellations) is an interactive visual guide to help UH students optimize their path to graduation.  By showing progress, prerequisites, and timing of classes, students can experiment with the ordering of remaining classes with a click-and-drag interface.
 
 A student's progress on general UH requirements and major requirements are indicated along with remaining major classes.  Prerequisite dependencies are shown with arrows along with credit hours totals for each semester.
