@@ -1,4 +1,4 @@
-## Table of contents
+## Table of Contents
 
 * [Overview](#overview)
 * [Deployment](#deployment)
@@ -32,11 +32,23 @@ Our project is deployed on Digital Ocean [here](https://classtellations.xyz).
 
 ### Transcript Page
 
-* Select past and current courses from a dropdown menu
-* View and edit the list of past and current courses
-
-Check out this page [on Digital Ocean](http://138.197.222.6/#/transcript)
+* Add, view, and remove courses taken, in progress or withdrawn from.
+* Buttons at top the of Transcript and Add Course Form for ease of navigation.
 <img style="height: 400px; width: auto;" src="images/m1-transcript.png">
+
+### Transcript
+* View added courses sorted reverse-chronologically by year and semester, then in descending order by ICS course level.
+* Courses are color-coded by status:
+    * In Progress = Orange
+    * Complete = Green
+    * Withdrew = Red
+<img style="height: 400px; width: auto;" src="images/transcript-example.png">
+
+### Add Course Form
+* Courses can be defined and added to the Transcript with with the Add Course form:
+<img style="height: 400px; width: auto;" src="images/add-course-example.png">
+
+Check out the Transcript page [on Digital Ocean](http://138.197.222.6/#/transcript)
 
 ### Progress Page
 
@@ -107,7 +119,7 @@ Jessica is in her junior year at the University of Hawaii at Manoa and pursuing 
 
 ### Alison Tomooka
 
-Alison is in her third year at University of Hawaii at Manoa and pursuing a B.A. in Economics, along with a minor in Computer Science. Through UH Classtellations, she hopes to help other students keep track of their academic progress and achieve their educational goals. For more information about Alison and her previous projects, please visit her [portfolio](https://alison-t.github.io/).
+Alison is in her third year at University of Hawaii at Manoa and pursuing a B.A. in Economics, along with a minor in Computer Science. Through UH Classtellations, she hopes to help other students keep track of their academic progress and achieve their educational goals. For more information about Alison and her previous projects, please visit [her portfolio](https://alison-t.github.io/).
 
 ### Kiko Whiteley
 
