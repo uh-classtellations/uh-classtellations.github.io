@@ -42,10 +42,12 @@ Our project is deployed on Digital Ocean [here](https://classtellations.xyz).
     * In Progress = Orange
     * Complete = Green
     * Withdrew = Red
+    
 <img style="height: 400px; width: auto;" src="images/transcript-example.png">
 
 ### Add Course Form
 * Courses can be defined and added to the Transcript with with the Add Course form:
+
 <img style="height: 400px; width: auto;" src="images/add-course-example.png">
 
 Check out the Transcript page [on Digital Ocean](http://138.197.222.6/#/transcript)
