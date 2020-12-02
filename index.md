@@ -38,7 +38,7 @@ This project requires the downloading of the following libraries:
 
 ### Transcript Page
 
-Check out the Transcript page [on Digital Ocean](http://138.197.222.6/#/transcript).
+Check out the Transcript page [on Digital Ocean](https://classtellations.xyz/#/transcript).
 
 #### Transcript
 * View added courses sorted reverse-chronologically by year and semester, then in descending order by ICS course level.
@@ -68,7 +68,7 @@ Check out the Transcript page [on Digital Ocean](http://138.197.222.6/#/transcri
 * Semester-wise and total credit hours shown
 * Has a download as PDF button where a user can save a snapshot of their progress page
 
-Check out this page [on Digital Ocean](http://138.197.222.6/#/progress)
+Check out this page [on Digital Ocean](https://classtellations.xyz/#/progress)
 
 <img style="height: 500px; width: auto;" src="images/progress-mockup.png">
 
@@ -76,8 +76,9 @@ Check out this page [on Digital Ocean](http://138.197.222.6/#/progress)
 
 * View ICS major advisors
 * Click to schedule an appointment via UH Star Balance
+* View Graduation Requirements
 
-Check out this page [on Digital Ocean](http://138.197.222.6/#/list-advisors)
+Check out this page [on Digital Ocean](https://classtellations.xyz/#/list-advisors)
 <img style="height: 400px; width: auto;" src="images/m1-advisors.png">
 
 ### Login Page
@@ -85,7 +86,7 @@ Check out this page [on Digital Ocean](http://138.197.222.6/#/list-advisors)
 * Log in to resume use of UH Classtellations
 * Optional: log in as guest (under development)
 
-Check out this page [on Digital Ocean](http://138.197.222.6/#/signin)
+Check out this page [on Digital Ocean](https://classtellations.xyz/#/signin)
 <img style="height: 400px; width: auto;" src="images/m1-login.png">
 
 ## Development History
@@ -98,7 +99,7 @@ Our goals and progress for Milestone 1 are viewable at [our Github Repository's 
 
 ### Milestone 2: Data model development
 
-Our goals and progress for Milestone 1 are viewable at [our Github Repository's Project Page](https://github.com/uh-classtellations/uh-classtellations/projects/3).
+Our goals and progress for Milestone 2 are viewable at [our Github Repository's Project Page](https://github.com/uh-classtellations/uh-classtellations/projects/3).
 
 ### Milestone 3: Final touches
 
