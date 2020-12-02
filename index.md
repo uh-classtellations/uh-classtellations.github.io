@@ -34,7 +34,7 @@ This project requires the downloading of the following libraries:
 
 -jsPDF: installation guide can be found [here](https://github.com/MrRio/jsPDF)
 
--html2canvas: installation guide can be found [here] (https://html2canvas.hertzen.com/)
+-html2canvas: installation guide can be found [here](https://html2canvas.hertzen.com/)
 
 ### Transcript Page
 
