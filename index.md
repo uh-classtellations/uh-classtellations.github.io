@@ -57,15 +57,11 @@ Check out the Transcript page [on Digital Ocean](https://classtellations.xyz/#/t
 
 ### Progress Page
 
-* Choose track (top)
-* Classes, gateways, and semesters
-  * Green: past
-  * Yellow: current
-  * Blue: future
-* Prerequisites shown w/ arrows
-* Click-and-drag into a given semester requires prerequisite(s) completed
-* Semester-wise and total credit hours shown
-* Has a download as PDF button where a user can save a snapshot of their progress page
+* Click-and-drag to place courses in a given semester
+
+<img style="height: 500px; width: auto;" src="images/progress-1.png">
+<img style="height: 500px; width: auto;" src="images/progress-2.png">
+
 
 Check out this page [on Digital Ocean](https://classtellations.xyz/#/progress)
 
@@ -89,8 +85,6 @@ Check out this page [on Digital Ocean](https://classtellations.xyz/#/signin)
 <img style="height: 400px; width: auto;" src="images/m1-login.png">
 
 ## Developer Guide
-
-
 
 ## Development History
 
