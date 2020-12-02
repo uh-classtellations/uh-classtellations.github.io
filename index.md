@@ -3,8 +3,8 @@
 * [Overview](#overview)
 * [Deployment](#deployment)
 * [User Guide](#user-guide)
-* [Development History](#development-history)
 * [Developer Guide](#developer-guide)
+* [Development History](#development-history)
 * [Continuous Integration](#continuous-integration)
 * [Example enhancements](#example-enhancements)
 * [Team Members](#team-members)
@@ -20,7 +20,6 @@ UH Classtellations utilizes the following frameworks:
 * [Meteor](https://www.meteor.com/) for Javascript-based implementation of client and server code.
 * [React](https://reactjs.org/) for component-based UI implementation and routing.
 * [Semantic UI React](https://react.semantic-ui.com/) CSS Framework for UI design.
-* [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
 
 Feel free to reference the repositories for [our project](https://github.com/uh-classtellations/uh-classtellations) and [our Home Page](https://github.com/uh-classtellations/uh-classtellations.github.io).
 
@@ -81,6 +80,10 @@ Check out this page [on Digital Ocean](http://138.197.222.6/#/list-advisors)
 Check out this page [on Digital Ocean](http://138.197.222.6/#/signin)
 <img style="height: 400px; width: auto;" src="images/m1-login.png">
 
+## Developer Guide
+
+
+
 ## Development History
 
 To see our goals & progress, check out the Milestones below:
@@ -95,7 +98,7 @@ Our goals and progress for Milestone 1 are viewable at [our Github Repository's 
 
 ### Milestone 3: Final touches
 
-_This section is currently under development._
+Our goals and progress for Milestone 1 are viewable at [our Github Repository's Project Page](https://github.com/uh-classtellations/uh-classtellations/projects/4).
 
 ## Example enhancements
 
