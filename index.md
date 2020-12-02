@@ -30,6 +30,11 @@ Our project is deployed on Digital Ocean [here](https://classtellations.xyz).
 
 ## User Guide
 
+This project requires the downloading of the following libraries:
+
+-jsPDF: installation guide can be found [here](https://github.com/MrRio/jsPDF)
+-html2canvas: installation guide can be found [here] (https://html2canvas.hertzen.com/)
+
 ### Transcript Page
 
 Check out the Transcript page [on Digital Ocean](http://138.197.222.6/#/transcript).
@@ -60,6 +65,7 @@ Check out the Transcript page [on Digital Ocean](http://138.197.222.6/#/transcri
 * Prerequisites shown w/ arrows
 * Click-and-drag into a given semester requires prerequisite(s) completed
 * Semester-wise and total credit hours shown
+* Has a download as PDF button where a user can save a snapshot of their progress page
 
 Check out this page [on Digital Ocean](http://138.197.222.6/#/progress)
 
