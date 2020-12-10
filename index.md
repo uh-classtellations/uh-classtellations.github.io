@@ -31,12 +31,6 @@ Our project is deployed on Digital Ocean [here](https://classtellations.xyz).
 
 ## User Guide
 
-This project requires the downloading of the following libraries:
-
--jsPDF: installation guide can be found [here](https://github.com/MrRio/jsPDF)
-
--html2canvas: installation guide can be found [here](https://html2canvas.hertzen.com/)
-
 ### Transcript Page
 
 Check out the Transcript page [on Digital Ocean](https://classtellations.xyz/#/transcript).
@@ -87,6 +81,12 @@ Check out this page [on Digital Ocean](https://classtellations.xyz/#/signin)
 <img style="height: 400px; width: auto;" src="images/m1-login.png">
 
 ## Developer Guide
+
+This project requires the downloading of the following libraries:
+
+-jsPDF: installation guide can be found [here](https://github.com/MrRio/jsPDF)
+
+-html2canvas: installation guide can be found [here](https://html2canvas.hertzen.com/)
 
 ## Development History
 
