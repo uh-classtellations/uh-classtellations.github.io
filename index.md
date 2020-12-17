@@ -39,9 +39,8 @@ Check out the Transcript page [on Digital Ocean](https://classtellations.xyz/#/t
 #### Transcript
 * View added courses sorted reverse-chronologically by year and semester, then in descending order by ICS course level.
 * Courses are color-coded by status:
-    * In Progress = Orange
+    * Upcoming = Orange
     * Complete = Green
-    * Withdrew = Red
 * Button links to Add Course Form for ease in navigation.
 
 <img style="height: 400px; width: auto;" src="images/m3-transcript.png">
