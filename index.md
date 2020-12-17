@@ -85,6 +85,14 @@ Check out this page [on Digital Ocean](https://classtellations.xyz/#/signin)
 
 "Aesthetic is cool. Arrows are helpful in following the course order. It is a little unclear how to fill the 'Num' section of the Add Course form." - J.S.
 
+"Helpful to view progress through the years, simple and easy to use. Clean up arrows on progess page as it can look confusing." E.G.
+
+"Looks really nice and simple, I really liked how there was a chart that prevents you from putting a class too early. One thing I would change is having different color arrows because it's kinda hard to see what leads to what." - A.N.
+
+"Has great visual clairity. For advisors page, move undergraduate requirments from the bottom so that it is easier to view." - N.P.
+
+"The UH Classtellation site is a really nice website that allows me to organize and plan my courses. I love the pathway that lets me see the classes I need to take and their pre-requisites. As a suggestion, I'd wish the home page to have more color and contrast with the text; make it more eye-catching when I first enter the site." - G.E.
+
 ## Developer Guide
 
 This project requires the downloading of the following libraries:
