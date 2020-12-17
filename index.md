@@ -56,8 +56,8 @@ Check out the Transcript page [on Digital Ocean](https://classtellations.xyz/#/t
 * Click-and-drag to place courses in a given semester
 * See semester credit totals and completed credits
 
-<img style="height: 500px; width: auto; display: inline-block;" src="images/m3-progress-1.png">
-<img style="height: 500px; width: auto; display: inline-block;" src="images/m3-progress-2.png">
+<img style="height: 500px; width: auto;" src="images/m3-progress-1.png">
+<img style="height: 500px; width: auto;" src="images/m3-progress-2.png">
 
 * Receive alerts to ensure prerequisites are met in your timeline
 
