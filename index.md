@@ -44,25 +44,27 @@ Check out the Transcript page [on Digital Ocean](https://classtellations.xyz/#/t
     * Withdrew = Red
 * Button links to Add Course Form for ease in navigation.
 
-<img style="height: 400px; width: auto;" src="images/transcript-example.png">
+<img style="height: 400px; width: auto;" src="images/m3-transcript.png">
 
 #### Add Course Form
 * Courses can be defined and added to the Transcript with with the Add Course form.
 * Button links to top of page for ease in navigation.
 
-<img style="height: 400px; width: auto;" src="images/add-course-example.png">
+<img style="height: 400px; width: auto;" src="images/m3-add-course.png">
 
 ### Progress Page
 
 * Click-and-drag to place courses in a given semester
+* See semester credit totals and completed credits
 
-<img style="height: 500px; width: auto;" src="images/progress-1.png">
-<img style="height: 500px; width: auto;" src="images/progress-2.png">
+<img style="height: 500px; width: auto;" src="images/m3-progress-1.png">
+<img style="height: 500px; width: auto;" src="images/m3-progress-2.png">
 
+* Receive alerts to ensure prerequisites are met in your timeline
+
+<img style="height: 500px; width: auto;" src="images/preq-error.png">
 
 Check out this page [on Digital Ocean](https://classtellations.xyz/#/progress)
-
-<img style="height: 500px; width: auto;" src="images/progress-mockup.png">
 
 ### Advisor Page
 
@@ -71,7 +73,7 @@ Check out this page [on Digital Ocean](https://classtellations.xyz/#/progress)
 * View Graduation Requirements
 
 Check out this page [on Digital Ocean](https://classtellations.xyz/#/list-advisors)
-<img style="height: 400px; width: auto;" src="images/advisors-example.png">
+<img style="height: 400px; width: auto;" src="images/m3-advisors.png">
 
 ### Login Page
 
