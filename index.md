@@ -64,7 +64,7 @@ Check out the Transcript page [on Digital Ocean](https://classtellations.xyz/#/t
 * Print progress as a PDF
 
 <img style="height: 400px; width: auto; display: inline-block;" src="images/m3-blank-progress.png">
-<img style="height: 400px; width: auto; display: inline-block;" src="images/m3-changed-progress-2.png">
+<img style="height: 400px; width: auto; display: inline-block;" src="images/m3-changed-progress.png">
 
 * Receive alerts to ensure prerequisites are met in your timeline
 
