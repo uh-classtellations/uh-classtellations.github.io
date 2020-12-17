@@ -98,9 +98,13 @@ Check out this page [on Digital Ocean](https://classtellations.xyz/#/signin)
 
 This project requires the downloading of the following libraries:
 
--jsPDF: installation guide can be found [here](https://github.com/MrRio/jsPDF)
+* jsPDF: documentation can be found [here](https://github.com/MrRio/jsPDF)
 
--html2canvas: installation guide can be found [here](https://html2canvas.hertzen.com/)
+* html2canvas: documentation can be found [here](https://html2canvas.hertzen.com/)
+
+* React Beautiful DnD (Drag and Drop): documentation can be found [here](https://github.com/atlassian/react-beautiful-dnd)
+
+* React X-Arrows: documentation can be found [here](https://www.npmjs.com/package/react-xarrows) 
 
 ## Development History
 
