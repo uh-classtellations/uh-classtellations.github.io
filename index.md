@@ -63,8 +63,8 @@ Check out the Transcript page [on Digital Ocean](https://classtellations.xyz/#/t
 * See semester credit totals and completed credits
 * Print progress as a PDF
 
-<img style="height: 400px; width: auto;" src="images/m3-progress-1.png">
-<img style="height: 400px; width: auto;" src="images/m3-progress-2.png">
+<img style="height: 400px; width: auto; display: inline-block;" src="images/m3-blank-progress.png">
+<img style="height: 400px; width: auto; display: inline-block;" src="images/m3-changed-progress-2.png">
 
 * Receive alerts to ensure prerequisites are met in your timeline
 
