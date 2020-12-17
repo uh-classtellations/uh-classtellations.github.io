@@ -3,6 +3,7 @@
 * [Overview](#overview)
 * [Deployment](#deployment)
 * [User Guide](#user-guide)
+* [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
 * [Development History](#development-history)
 * [Continuous Integration](#continuous-integration)
@@ -79,6 +80,10 @@ Check out this page [on Digital Ocean](https://classtellations.xyz/#/list-adviso
 
 Check out this page [on Digital Ocean](https://classtellations.xyz/#/signin)
 <img style="height: 400px; width: auto;" src="images/m1-login.png">
+
+## Community Feedback
+
+"Aesthetic is cool. Arrows are helpful in following the course order. It is a little unclear how to fill the 'Num' section of the Add Course form." - J.S.
 
 ## Developer Guide
 
