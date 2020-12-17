@@ -61,7 +61,7 @@ Check out the Transcript page [on Digital Ocean](https://classtellations.xyz/#/t
 
 * Receive alerts to ensure prerequisites are met in your timeline
 
-<img style="height: 500px; width: auto;" src="images/preq-error.png">
+<img style="height: 500px; width: auto;" src="images/m3-preq-error.png">
 
 Check out this page [on Digital Ocean](https://classtellations.xyz/#/progress)
 
